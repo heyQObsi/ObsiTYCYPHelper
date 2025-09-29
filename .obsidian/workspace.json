@@ -13,8 +13,8 @@
             "state": {
               "type": "smart-release-notes-view",
               "state": {},
-              "icon": "file-text",
-              "title": "Release Notes"
+              "icon": "lucide-ghost",
+              "title": "smart-release-notes-view"
             }
           },
           {
@@ -105,12 +105,14 @@
             "id": "695b9c9bdafc2317",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Png/Pasted image 20250929091102.png"
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250929091102"
+              "icon": "lucide-file",
+              "title": "Welcome"
             }
           }
         ],
@@ -250,8 +252,8 @@
             "state": {
               "type": "side-panel-control-view",
               "state": {},
-              "icon": "viewIcon",
-              "title": "Markdown-Autocomplete"
+              "icon": "lucide-ghost",
+              "title": "side-panel-control-view"
             }
           },
           {
@@ -260,8 +262,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
             }
           },
           {
@@ -297,7 +299,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f40bb36f311b732",
+  "active": "695b9c9bdafc2317",
   "lastOpenFiles": [
     "ВУЗ/Физика/Единицы измерения.md",
     "ВУЗ/Информатика/Информатика - Лабораторные работы.md",
