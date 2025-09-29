@@ -105,12 +105,14 @@
             "id": "695b9c9bdafc2317",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Png/Pasted image 20250929091102.png"
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250929091102"
+              "icon": "lucide-file",
+              "title": "Welcome"
             }
           }
         ],
@@ -297,9 +299,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f40bb36f311b732",
+  "active": "695b9c9bdafc2317",
   "lastOpenFiles": [
     "ВУЗ/Физика/Единицы измерения.md",
+    "Png/Pasted image 20250929091102.png",
     "ВУЗ/Информатика/Информатика - Лабораторные работы.md",
     "ВУЗ/Физика/Физика.md",
     "ВУЗ/Физика/Физ. Константы.md",
@@ -315,7 +318,6 @@
     "Png/Pasted image 20250929150846.png",
     "Png/Pasted image 20250929150717.png",
     "Png/Pasted image 20250929150036.png",
-    "Png/Pasted image 20250929145921.png",
     "235_7-English-Grammar-in-Use.-Murphy-R.-2019-5th-394p-.pdf..md",
     "ВУЗ/Английский язык/Английский язык - Практики.md",
     "Без названия",
