@@ -105,10 +105,12 @@
             "id": "695b9c9bdafc2317",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "image",
+              "state": {
+                "file": "Png/Pasted image 20250929091102.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250929091102"
             }
           }
         ],
@@ -295,7 +297,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "695b9c9bdafc2317",
+  "active": "2f40bb36f311b732",
   "lastOpenFiles": [
     "ВУЗ/Физика/Единицы измерения.md",
     "ВУЗ/Информатика/Информатика - Лабораторные работы.md",
@@ -304,16 +306,16 @@
     "ВУЗ/Физика/Физ. Формулы.md",
     "ВУЗ/Физика/Физ. Термины.md",
     "ВУЗ/Физика/Физ. Конспекты.md",
-    "Pasted image 20250929151936.png",
-    "Pasted image 20250929151716.png",
-    "Pasted image 20250929151445.png",
-    "Pasted image 20250929151422.png",
-    "Pasted image 20250929151401.png",
-    "Pasted image 20250929151043.png",
-    "Pasted image 20250929150846.png",
-    "Pasted image 20250929150717.png",
-    "Pasted image 20250929150036.png",
-    "Pasted image 20250929145921.png",
+    "Png/Pasted image 20250929151936.png",
+    "Png/Pasted image 20250929151716.png",
+    "Png/Pasted image 20250929151445.png",
+    "Png/Pasted image 20250929151422.png",
+    "Png/Pasted image 20250929151401.png",
+    "Png/Pasted image 20250929151043.png",
+    "Png/Pasted image 20250929150846.png",
+    "Png/Pasted image 20250929150717.png",
+    "Png/Pasted image 20250929150036.png",
+    "Png/Pasted image 20250929145921.png",
     "235_7-English-Grammar-in-Use.-Murphy-R.-2019-5th-394p-.pdf..md",
     "ВУЗ/Английский язык/Английский язык - Практики.md",
     "Без названия",

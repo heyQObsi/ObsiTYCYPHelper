@@ -21,7 +21,7 @@
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": true,
-  "basePath": "https://github.com/heyQObsi/ObsiTYCYPHelper",
+  "basePath": "https://github.com/heyQObsi/ObsiTYCYPHelper.git",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
