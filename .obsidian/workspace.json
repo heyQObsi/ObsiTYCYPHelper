@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "dec66e5017479d80",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.9.14"
+            }
+          },
+          {
             "id": "f36b9b1aedaf5fba",
             "type": "leaf",
             "state": {
@@ -21,14 +33,10 @@
             "id": "756b2b7f683197da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ВУЗ/Физика/Примеры решения задач по физике.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Примеры решения задач по физике"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           },
           {
@@ -46,16 +54,6 @@
             }
           },
           {
-            "id": "718ea7bb7d9bd130",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
             "id": "d0c532655475c135",
             "type": "leaf",
             "state": {
@@ -70,29 +68,17 @@
             }
           },
           {
-            "id": "36d327bab3ef0536",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "pdf/ДИНАМИКА_ Прим реш зад.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "ДИНАМИКА_ Прим реш зад"
-            }
-          },
-          {
             "id": "712f3d34ac7bfbbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "ВУЗ/Физика/Физ. Конспекты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Физ. Конспекты"
             }
           },
           {
@@ -122,9 +108,21 @@
               "icon": "lucide-file",
               "title": "Единицы измерения"
             }
+          },
+          {
+            "id": "c6b1ed03d183696e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdf/Call_1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Call_1"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -137,6 +135,16 @@
         "id": "78d9e02884df661f",
         "type": "tabs",
         "children": [
+          {
+            "id": "55d8d6d7e0215e8b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
           {
             "id": "2f40bb36f311b732",
             "type": "leaf",
@@ -157,7 +165,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -166,22 +174,13 @@
               "icon": "lucide-search",
               "title": "Поиск"
             }
-          },
-          {
-            "id": "55d8d6d7e0215e8b",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 253.5
   },
   "right": {
     "id": "09372e1444ba2fe9",
@@ -207,6 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ВУЗ/Физика/Физика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,17 +216,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
-            }
-          },
-          {
-            "id": "71f1f2ff20179786",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {},
-              "icon": "viewIcon",
-              "title": "Markdown-Autocomplete"
+              "title": "Обратные ссылки для Физика"
             }
           },
           {
@@ -245,11 +235,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ВУЗ/Физика/Физика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Физика"
             }
           },
           {
@@ -273,12 +264,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "ВУЗ/Физика/Физика.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Физика"
             }
           },
           {
@@ -290,12 +282,23 @@
               "icon": "smart-connections",
               "title": "Connections"
             }
+          },
+          {
+            "id": "df832428016c36d2",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 437.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -313,56 +316,55 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "omnisearch:Omnisearch": false,
-      "copilot:Open Copilot Chat": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f73968fec49cdb47",
+  "active": "c6b1ed03d183696e",
   "lastOpenFiles": [
-    "ВУЗ/Физика/Физика.md",
-    "Welcome.md",
-    "Команды по HTML.md",
-    "ВУЗ/Физика/Физ. Формулы.md",
-    "ВУЗ/Физика/Физ. Термины.md",
-    "ВУЗ/Физика/Единицы измерения.md",
-    "ВУЗ/Информатика/Информатика.md",
-    "ВУЗ/Физика/Физ. Конспекты.md",
-    "pdf/ДИНАМИКА_ Прим реш зад.pdf",
-    "Png/Pasted image 20250930023303.png",
-    "pdf",
-    "Png/Pasted image 20250930032830.png",
+    "Png/Pasted image 20251003233413.png",
+    "Png/Pasted image 20251003101438.png",
+    "ВУЗ/Математика/Коллоквиум по математике №1.md",
+    "Pasted image 20251004032250.png",
+    "Pasted image 20251004030832.png",
     "ВУЗ/Физика/Физ. Константы.md",
-    "Png/Pasted image 20250930055707.png",
-    "Png/Pasted image 20250930055615.png",
+    "ВУЗ/Физика/Физ. Формулы.md",
+    "Pasted image 20251003033758.png",
+    "Pasted image 20251003012108.png",
+    "Pasted image 20251003025050.png",
+    "Pasted image 20251003024224.png",
+    "Pasted image 20251003022340.png",
+    "Pasted image 20251003023441.png",
+    "ВУЗ/Физика/Единицы измерения.md",
+    "ВУЗ/Физика/Физ. Термины.md",
+    "ВУЗ/Физика/Физ. Конспекты.md",
+    "ВУЗ/Математика/Математика.md",
+    "pdf/Call_1.pdf",
     "ВУЗ/Физика/Примеры решения задач по физике.md",
-    "Png/Pasted image 20250930054936.png",
-    "Png/Pasted image 20250930054811.png",
-    "Png/Pasted image 20250930054246.png",
-    "Png/Pasted image 20250930054004.png",
-    "Png/Pasted image 20250930053732.png",
-    "Png/Pasted image 20250930053235.png",
+    "ВУЗ/Физика/Физика.md",
+    "ВУЗ/ПИТР/ПИТР.md",
+    "Welcome.md",
+    "45ab78.md",
+    "^^45ab78.md",
+    "^45ab78.md",
+    "[.md",
+    "[[.md",
+    "^История.md",
+    "[История.md",
+    "(История.md",
+    "История.md",
+    "ВУЗ/История России/История России.md",
+    "История-россии.md",
+    "История_России.md",
+    "История-России.md",
+    "ВУЗ/Физическая культура.md",
+    "pdf/ДИНАМИКА_ Прим реш зад.pdf",
+    "pdf",
     "pdf/ЭЛЕКТРОМАГНЕТИЗМ_Прим реш зад.pdf",
     "pdf/ПОСТОЯННЫЙ ЭЛЕКТРИЧЕСКИЙ ТОК_Прим реш зад.pdf",
     "pdf/ПОТЕНЦИАЛ  И ЭНЕРГИЯ ЭЛЕКТРИЧЕСКОГО ПОЛЯ _Прим реш зад 1.pdf",
     "pdf/ПОТЕНЦИАЛ  И ЭНЕРГИЯ ЭЛЕКТРИЧЕСКОГО ПОЛЯ _Прим реш зад.pdf",
     "pdf/ЗАКОН КУЛОНА НАПРЯЖЕННОСТЬ_Прим реш зад.pdf",
     "pdf/ТЕРМОДИНАМИКА_Прим реш зад.pdf",
-    "pdf/МОЛЕКУЛЯРНАЯ ФИЗИКА_Прим реш зад.pdf",
-    "pdf/КИНЕМАТИКА_Прим реш зад.pdf",
-    "Excalidraw/Drawing 2025-09-30 00.50.09.excalidraw.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "ВУЗ/Информатика/Информатика - Лекции.md"
+    "pdf/МОЛЕКУЛЯРНАЯ ФИЗИКА_Прим реш зад.pdf"
   ]
 }

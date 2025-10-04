@@ -2,7 +2,7 @@
   "userId": "b47c0161-567c-4570-aad3-f5a9659f33c1",
   "isPlusUser": false,
   "plusLicenseKey": "",
-  "openAIApiKey": "",
+  "openAIApiKey": "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",
   "openAIOrgId": "",
   "huggingfaceApiKey": "",
   "cohereApiKey": "",
@@ -16,9 +16,9 @@
   "openRouterAiApiKey": "",
   "xaiApiKey": "",
   "mistralApiKey": "",
-  "deepseekApiKey": "",
+  "deepseekApiKey": "sk-78eef108bf33451da2194a10b36a5b05",
   "defaultChainType": "llm_chain",
-  "defaultModelKey": "google/gemini-2.5-flash|openrouterai",
+  "defaultModelKey": "deepseek-chat|deepseek",
   "embeddingModelKey": "text-embedding-3-small|openai",
   "temperature": 0.1,
   "maxTokens": 6000,
@@ -187,8 +187,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -197,8 +197,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
