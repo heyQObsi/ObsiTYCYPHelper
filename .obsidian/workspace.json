@@ -87,12 +87,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ВУЗ/Физика/Физ. Термины.md",
+                "file": "ВУЗ/Физика/Физ. Формулы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Физ. Термины"
+              "title": "Физ. Формулы"
             }
           },
           {
@@ -113,12 +113,14 @@
             "id": "c6b1ed03d183696e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "pdf/Call_1.pdf"
+                "file": "ВУЗ/Математика/Коллоквиум по математике №1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Call_1"
+              "icon": "lucide-file",
+              "title": "Коллоквиум по математике №1"
             }
           }
         ],
@@ -164,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "^e04",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ВУЗ/Физика/Физика.md",
+                "file": "ВУЗ/Математика/Коллоквиум по математике №1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +218,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Физика"
+              "title": "Обратные ссылки для Коллоквиум по математике №1"
             }
           },
           {
@@ -235,12 +237,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ВУЗ/Физика/Физика.md",
+                "file": "ВУЗ/Математика/Коллоквиум по математике №1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Физика"
+              "title": "Исходящие ссылки из Коллоквиум по математике №1"
             }
           },
           {
@@ -264,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ВУЗ/Физика/Физика.md",
+                "file": "ВУЗ/Математика/Коллоквиум по математике №1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Физика"
+              "title": "Структура Коллоквиум по математике №1"
             }
           },
           {
@@ -293,12 +295,11 @@
               "title": "Markdown-Autocomplete"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 437.5
+    "width": 382.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -319,26 +320,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c6b1ed03d183696e",
+  "active": "f73968fec49cdb47",
   "lastOpenFiles": [
+    "ВУЗ/Физика/Физ. Формулы.md",
+    "ВУЗ/Математика/Коллоквиум по математике №1.md",
+    "ВУЗ/Физика/Единицы измерения.md",
+    "ВУЗ/Физика/Физ. Конспекты.md",
+    "ВУЗ/Физика/Физ. Константы.md",
+    "ВУЗ/Физика/Физ. Термины.md",
+    "pdf/Call_1.pdf",
     "Png/Pasted image 20251003233413.png",
     "Png/Pasted image 20251003101438.png",
-    "ВУЗ/Математика/Коллоквиум по математике №1.md",
     "Pasted image 20251004032250.png",
     "Pasted image 20251004030832.png",
-    "ВУЗ/Физика/Физ. Константы.md",
-    "ВУЗ/Физика/Физ. Формулы.md",
     "Pasted image 20251003033758.png",
     "Pasted image 20251003012108.png",
     "Pasted image 20251003025050.png",
     "Pasted image 20251003024224.png",
     "Pasted image 20251003022340.png",
     "Pasted image 20251003023441.png",
-    "ВУЗ/Физика/Единицы измерения.md",
-    "ВУЗ/Физика/Физ. Термины.md",
-    "ВУЗ/Физика/Физ. Конспекты.md",
     "ВУЗ/Математика/Математика.md",
-    "pdf/Call_1.pdf",
     "ВУЗ/Физика/Примеры решения задач по физике.md",
     "ВУЗ/Физика/Физика.md",
     "ВУЗ/ПИТР/ПИТР.md",
