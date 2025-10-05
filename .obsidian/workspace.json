@@ -30,17 +30,21 @@
             }
           },
           {
-            "id": "756b2b7f683197da",
+            "id": "d0c532655475c135",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Физика/Примеры решения задач по физике.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Примеры решения задач по физике"
             }
           },
           {
-            "id": "3c0672267e55731b",
+            "id": "756b2b7f683197da",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "d0c532655475c135",
+            "id": "3c0672267e55731b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,6 +77,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "ВУЗ/Физика/Физ. Термины.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Физ. Термины"
+            }
+          },
+          {
+            "id": "403157c61e4006dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "ВУЗ/Физика/Физ. Конспекты.md",
                 "mode": "source",
                 "source": false
@@ -82,17 +100,45 @@
             }
           },
           {
-            "id": "403157c61e4006dd",
+            "id": "a907d011fce6678d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ВУЗ/Физика/Физ. Формулы.md",
+                "file": "ВУЗ/Физика/Физ. Конспекты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Физ. Формулы"
+              "title": "Физ. Конспекты"
+            }
+          },
+          {
+            "id": "c85e35928e5e2cb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физ. Конспекты/Термодинамика. Конспект.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Термодинамика. Конспект"
+            }
+          },
+          {
+            "id": "701571a466dcb03a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Физика/Физ. Термины.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Физ. Термины"
             }
           },
           {
@@ -101,16 +147,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ВУЗ/Физика/Единицы измерения.md",
+                "file": "ВУЗ/Физика/Физ. Константы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Единицы измерения"
+              "title": "Физ. Константы"
             }
           },
           {
-            "id": "c6b1ed03d183696e",
+            "id": "0c0333adadae40d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -124,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -166,7 +212,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "^e04",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -208,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ВУЗ/Математика/Коллоквиум по математике №1.md",
+                "file": "ВУЗ/Физика/Физ. Формулы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +264,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Коллоквиум по математике №1"
+              "title": "Обратные ссылки для Физ. Формулы"
             }
           },
           {
@@ -237,12 +283,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ВУЗ/Математика/Коллоквиум по математике №1.md",
+                "file": "ВУЗ/Физика/Физ. Формулы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Коллоквиум по математике №1"
+              "title": "Исходящие ссылки из Физ. Формулы"
             }
           },
           {
@@ -266,13 +312,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ВУЗ/Математика/Коллоквиум по математике №1.md",
+                "file": "ВУЗ/Физика/Физ. Формулы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Коллоквиум по математике №1"
+              "title": "Структура Физ. Формулы"
             }
           },
           {
@@ -299,7 +345,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 367.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -322,50 +368,51 @@
   },
   "active": "f73968fec49cdb47",
   "lastOpenFiles": [
-    "ВУЗ/Физика/Физ. Формулы.md",
-    "ВУЗ/Математика/Коллоквиум по математике №1.md",
-    "ВУЗ/Физика/Единицы измерения.md",
-    "ВУЗ/Физика/Физ. Конспекты.md",
-    "ВУЗ/Физика/Физ. Константы.md",
     "ВУЗ/Физика/Физ. Термины.md",
-    "pdf/Call_1.pdf",
-    "Png/Pasted image 20251003233413.png",
-    "Png/Pasted image 20251003101438.png",
-    "Pasted image 20251004032250.png",
-    "Pasted image 20251004030832.png",
-    "Pasted image 20251003033758.png",
-    "Pasted image 20251003012108.png",
-    "Pasted image 20251003025050.png",
-    "Pasted image 20251003024224.png",
-    "Pasted image 20251003022340.png",
-    "Pasted image 20251003023441.png",
-    "ВУЗ/Математика/Математика.md",
-    "ВУЗ/Физика/Примеры решения задач по физике.md",
+    "Физ. Конспекты/Термодинамика. Конспект.md",
+    "Физ. Конспекты/Молекулярная физика. Конспект.md",
+    "ВУЗ/Физика/Физ. Конспекты.md",
+    "Физ. Конспекты/Кинематика. Конспект.md",
+    "Физ. Конспекты/Динамика. Конспект.md",
+    "ВУЗ/Физика/Физ. Формулы.md",
+    "ВУЗ/Физика/Единицы измерения.md",
+    "ВУЗ/Физика/Физ. Константы.md",
+    "ВУЗ/Английский язык/Английский язык - Практики.md",
+    "ВУЗ/Английский язык/Английский язык.md",
     "ВУЗ/Физика/Физика.md",
-    "ВУЗ/ПИТР/ПИТР.md",
+    "ВУЗ/Математика/Коллоквиум по математике №1.md",
+    "ВУЗ/Математика/Математика.md",
+    "Физ. Конспекты",
+    "Физ. Термины",
+    "Физ. Формулы",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "ВУЗ/Физика/Примеры решения задач по физике.md",
     "Welcome.md",
-    "45ab78.md",
-    "^^45ab78.md",
-    "^45ab78.md",
-    "[.md",
-    "[[.md",
-    "^История.md",
-    "[История.md",
-    "(История.md",
-    "История.md",
-    "ВУЗ/История России/История России.md",
-    "История-россии.md",
-    "История_России.md",
-    "История-России.md",
+    "Вложенные файлы/Png/Pasted image 20251004164859.png",
+    "Вложенные файлы/pdf/АТОМНАЯ И ЯДЕРНАЯ ФИЗИКА_прим реш зад.pdf",
+    "Вложенные файлы",
+    "Pasted Image 20251005121401_096.png",
+    "Вложенные файлы/Png/Pasted image 20251005121442.png",
+    "Вложенные файлы/Png/Pasted image 20251004173318.png",
+    "Excalidraw/Drawing 2025-09-30 00.50.09.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-05 12.13.45.excalidraw.md",
+    "Вложенные файлы/pdf/ВОЛНОВАЯ И КВАНТОВАЯ ОПТИКА Прим реш.pdf",
     "ВУЗ/Физическая культура.md",
-    "pdf/ДИНАМИКА_ Прим реш зад.pdf",
-    "pdf",
-    "pdf/ЭЛЕКТРОМАГНЕТИЗМ_Прим реш зад.pdf",
-    "pdf/ПОСТОЯННЫЙ ЭЛЕКТРИЧЕСКИЙ ТОК_Прим реш зад.pdf",
-    "pdf/ПОТЕНЦИАЛ  И ЭНЕРГИЯ ЭЛЕКТРИЧЕСКОГО ПОЛЯ _Прим реш зад 1.pdf",
-    "pdf/ПОТЕНЦИАЛ  И ЭНЕРГИЯ ЭЛЕКТРИЧЕСКОГО ПОЛЯ _Прим реш зад.pdf",
-    "pdf/ЗАКОН КУЛОНА НАПРЯЖЕННОСТЬ_Прим реш зад.pdf",
-    "pdf/ТЕРМОДИНАМИКА_Прим реш зад.pdf",
-    "pdf/МОЛЕКУЛЯРНАЯ ФИЗИКА_Прим реш зад.pdf"
+    "Команды по HTML.md",
+    "Вложенные файлы/Png/Pasted image 20251004192851.png",
+    "Физ. Формулы^кинетическая.md",
+    "Вложенные файлы/Png/Pasted image 20251004182314.png",
+    "Вложенные файлы/Png/Pasted image 20251004181129.png",
+    "Вложенные файлы/pdf/КОЛЕБАНИЯ И ВОЛНЫ_Прим реш зад.pdf",
+    "Физ. Формулы^частота.md",
+    "Вложенные файлы/pdf/Call_1.pdf",
+    "Вложенные файлы/Png/Pasted image 20251003233413.png",
+    "Вложенные файлы/Png/Pasted image 20251003101438.png",
+    "Pasted image 20251004032250.png",
+    "ВУЗ/ПИТР/ПИТР.md",
+    "Вложенные файлы/pdf/ДИНАМИКА_ Прим реш зад.pdf",
+    "Вложенные файлы/pdf"
   ]
 }

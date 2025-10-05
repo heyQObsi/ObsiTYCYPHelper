@@ -25,5 +25,14 @@
       ],
       "key": "End"
     }
+  ],
+  "editor:set-heading-2": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "1"
+    }
   ]
 }
